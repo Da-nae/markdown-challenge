@@ -6,10 +6,12 @@
 
 ## I'm Danaé, a design enthousiast and a nerd at heart.
 
-- [x] Birthday : 23/02
-- [x] Favorite colo : duh... pink !
-- [x] Favorite food : pizza :pizza:
-- [x] Pinneapple on pizza ? Yes, no shame !
+| Q | A |
+| ----------- | ----------- |
+| Birthday ? | 23/02 (pisces baby :fish:) |
+| Favorite color ? | duh... pink ! |
+| Favorite food ? | pizza :pizza: |
+| Pinneapple on pizza ? |[X] Yes, no shame [ ] No|
 
 ### Hobbies
 - Crafting

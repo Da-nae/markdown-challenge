@@ -2,7 +2,7 @@
 
 *Life finds a way - Ian Malcom*
 
-![profile picture](DGpic.jpeg)
+![profile picture](DGpic.jpg)
 
 ## I'm Danaé, a design enthousiast and a nerd at heart.
 

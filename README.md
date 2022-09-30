@@ -11,7 +11,7 @@
 | Birthday ? | 23/02 (pisces baby :fish:) |
 | Favorite color ? | duh... pink ! |
 | Favorite food ? | pizza :pizza: |
-| Pinneapple on pizza ? |[x] Yes, no shame [ ] No|
+| Pinneapple on pizza ? | Yes, no shame ! |
 
 ### Hobbies
 - Crafting
